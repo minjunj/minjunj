@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
   
 
-  #### `🗺️ My Experience`
+  <h3> 🗺️ My Experience </h3>
 
   - 🎒 Electrical Engineering and Computer Sciences at GIST (2022~)
   - 🌐 Research Intern at [GIST NetAI](https://netai.smartx.kr/) (2023~)
