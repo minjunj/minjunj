@@ -24,15 +24,11 @@ Here are some ideas to get you started:
   I look forward to have many connections with other developers also. <br />
   
 
-  #### `$ cat ~/.jaehong21_history`
+  #### `My Experience`
 
-- 🌎 Cheongshim International Academy (2015 - 2017)
-- 🏁 Korean Minjok Leadership Academy (2018 - 2020)
-- 🏎️ Electrical Engineering and Computer Sciences @ GIST (2021~)
-  - 🔬 Research Intern @ [KAIST NetS&P](https://netsp.kaist.ac.kr/) (2023)
-  - ⚡️ Backend/Infrastructure Developer @ [Skrr](https://skrr.app/) (2023)
-  - 🧠 Tech Lead @ [Sigor Inc.](https://doggly.co.kr/) (2022)
-  - 🤑 Web3 Frontend Intern @ [PiLab Inc.](https://www.bifrostnetwork.com/) (2022)
+  - 🎒 Electrical Engineering and Computer Sciences at GIST (2022~)
+  - 🌐 Research Intern at [GIST NetAI](https://netai.smartx.kr/) (2023~)
+  - 🎯 Backend/Infrastructure Developer at [InfoTeam](https://introduce.gistory.me/) (2022~)
 
 
 <div>
@@ -79,3 +75,5 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp 
 </p>
 </div>
+
+
