@@ -37,12 +37,21 @@ Here are some ideas to get you started:
   <h3> 🛠 My Favorites 🛠 </h3>
   <p>
   <h4>Web/App Developer</h4>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Python-%23ffde7a?style=flat&logo=Python&logoColor=%23ffde7a&labelColor=%2364a8e2&color=%23ffde7a">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/></a>&nbsp
+    <img alt="Static Badge" src="https://img.shields.io/badge/C%2FC%2B%2B-%2364a8e2?style=flat&logo=C%2B%2B&logoColor=%2300599C">
 
   <br />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/></a>&nbsp
+    <img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23000000?style=flat&logo=Flask&logoColor=%23ffffff">
+    <img alt="Static Badge" src="https://img.shields.io/badge/TypeORM-%234479A1?style=flat&logoColor=%234479A1">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Prisma-%23A100FF?style=flat&logo=Prisma&logoColor=%23dea6ff">
   <br />
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/></a>&nbsp
+    <img alt="Static Badge" src="https://img.shields.io/badge/Mysql-%23f3f6f4?style=flat&logo=mysql&logoColor=%234479A1">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PostgreSQL-%234169E1?style=flat&logo=postgresql&logoColor=%23dea6ff">
+  <br />
+    <img alt="Static Badge" src="https://img.shields.io/badge/NATS-%2327AAE1?style=flat&logo=natsdotio&logoColor=%23ffffff">
+    <img alt="Static Badge" src="https://img.shields.io/badge/MinIO-%23C72E49?style=flat&logo=minio&logoColor=%23ffffff">
   <br />
   
   <h4>DevOps Engineer</h4>
@@ -57,7 +66,9 @@ Here are some ideas to get you started:
 
 
   <h5>Tools</h5>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp
+    <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23ffffff?style=flat&logo=notion&logoColor=%23000000">
+
 </p>
 </div>
 
