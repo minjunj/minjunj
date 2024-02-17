@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 
   <h5>Tools</h5>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp
-    <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23ffffff?style=flat&logo=notion&logoColor=%23000000">
     <img alt="Static Badge" src="https://img.shields.io/badge/DataGrip-%23000000?style=flat&logo=datagrip&logoColor=%23ffffff">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23ffffff?style=flat&logo=notion&logoColor=%23000000">
     <img alt="Static Badge" src="https://img.shields.io/badge/Slack-%234A154B?style=flat&logo=Slack&logoColor=%23ffffff">
 
  <h5>I've used it a little bit</h5>
