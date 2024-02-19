@@ -54,6 +54,7 @@ Here are some ideas to get you started:
     <img alt="Static Badge" src="https://img.shields.io/badge/NATS-%2327AAE1?style=flat&logo=natsdotio&logoColor=%23ffffff">
     <img alt="Static Badge" src="https://img.shields.io/badge/MinIO-%23C72E49?style=flat&logo=minio&logoColor=%23ffffff">
   <br />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Streamlit-%23FF4B4B?logo=Streamlit&color=%23ffffff">
     <img alt="Static Badge" src="https://img.shields.io/badge/Pandas-%23150458?style=flat&logo=pandas">
     <img alt="Static Badge" src="https://img.shields.io/badge/Selenium-%2343B02A?style=flat&logo=selenium">
   <br />
