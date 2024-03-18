@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   **보충역 산업기능요원 구직 중입니다!** <br />
   I interest in **Automation Cloud Systems**, **Digital Twin** and **DevOps**. <br />
   Now, I am developing content for **MobileX**(k8s cloud-based platform) in NetAI Lab! <br />
-  Nowadays, I have been interested in **AI Serving Method** and **Automation**. <br />
+  Nowadays, I am interested in **AI Serving Method** and **Automation**. <br />
   I Develop to find fun in the world. <br />
   
   
