@@ -70,14 +70,18 @@ Here are some ideas to get you started:
   <br />
 
 
-  <h5>Tools</h5>
+  <h4>Tools</h4>
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></a>&nbsp
     <img alt="Static Badge" src="https://img.shields.io/badge/DataGrip-%23000000?style=flat&logo=datagrip&logoColor=%23ffffff">
     <img alt="Static Badge" src="https://img.shields.io/badge/Notion-%23ffffff?style=flat&logo=notion&logoColor=%23000000">
     <img alt="Static Badge" src="https://img.shields.io/badge/Slack-%234A154B?style=flat&logo=Slack&logoColor=%23ffffff">
 
- <h5>I've used it a little bit</h5>
+ <h4>I've used it a little bit</h4>
     <img alt="Static Badge" src="https://img.shields.io/badge/K3s-%23FFC61C?style=flat&logo=k3s">
+ <h4>Human Language</h4>
+    한국어</br>
+    English</br>
+    日本語</br>
 </p>
 </div>
 
