@@ -65,6 +65,7 @@ Here are some ideas to get you started:
   <br />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a>&nbsp
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/></a>&nbsp
+    <img alt="Static Badge" src="https://img.shields.io/badge/K3s-%23FFC61C?style=flat&logo=k3s">
   <br />
     <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=GithubActions&logoColor=white"/></a>&nbsp
   <br />
@@ -77,7 +78,7 @@ Here are some ideas to get you started:
     <img alt="Static Badge" src="https://img.shields.io/badge/Slack-%234A154B?style=flat&logo=Slack&logoColor=%23ffffff">
 
  <h4>I've used it a little bit</h4>
-    <img alt="Static Badge" src="https://img.shields.io/badge/K3s-%23FFC61C?style=flat&logo=k3s">
+    
  <h4>Human Language</h4>
     한국어</br>
     English</br>
