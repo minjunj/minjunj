@@ -77,7 +77,12 @@ Here are some ideas to get you started:
     <img alt="Static Badge" src="https://img.shields.io/badge/Slack-%234A154B?style=flat&logo=Slack&logoColor=%23ffffff">
 
  <h4>I've used it a little bit</h4>
+    <img alt="Static Badge" src="https://img.shields.io/badge/Kubespray-%23326CE5?logo=kubernetes&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/ArgoCD-%23EF7B4D?logo=argo&logoColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/FastAPI-323232?logo=fastapi">
     <img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23000000?style=flat&logo=Flask&logoColor=%23ffffff">
+    
+    
  <h4>Human Language</h4>
     한국어</br>
     English</br>
