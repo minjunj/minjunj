@@ -44,7 +44,6 @@ Here are some ideas to get you started:
 
   <br />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/></a>&nbsp
-    <img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23000000?style=flat&logo=Flask&logoColor=%23ffffff">
     <img alt="Static Badge" src="https://img.shields.io/badge/TypeORM-%234479A1?style=flat&logoColor=%234479A1">
     <img alt="Static Badge" src="https://img.shields.io/badge/Prisma-%23A100FF?style=flat&logo=Prisma&logoColor=%23dea6ff">
   <br />
@@ -78,7 +77,7 @@ Here are some ideas to get you started:
     <img alt="Static Badge" src="https://img.shields.io/badge/Slack-%234A154B?style=flat&logo=Slack&logoColor=%23ffffff">
 
  <h4>I've used it a little bit</h4>
-    
+    <img alt="Static Badge" src="https://img.shields.io/badge/Flask-%23000000?style=flat&logo=Flask&logoColor=%23ffffff">
  <h4>Human Language</h4>
     한국어</br>
     English</br>
