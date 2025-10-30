@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+minjunj's+GitHub!👋)](https://git.io/typing-svg)
 
-  I interest in **Automation Cloud Systems**, **Digital Twin** and **DevOps**. <br />
+  **If you interest in My Projects, Contact me!** <br />
+  I interest in **Automation Cloud Systems**, **Digital Twin** and **DevOps**. 
   Nowadays, I am interested in **Automation** and **Home Server** . <br />
   I Develop to find fun in the world. <br />
   
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 
   - 🎒 Electrical Engineering and Computer Sciences at GIST (2022~)
   -  🎯 Backend/Infrastructure Developer at [InfoTeam](https://introduce.gistory.me/) (2022~)
-  - 🌐 Research Intern at [GIST NetAI](https://netai.smartx.kr/) (2023~)
+  - 🌐 Research Intern at [GIST NetAI](https://netai.smartx.kr/) (2023~2024)
  
 
 
