@@ -37,6 +37,7 @@ Here are some ideas to get you started:
     CRDB, psql</br>
     K8s, EKS, istio, ArgoCD, Argo Workflows</br>
     AWS</br>
+    etc.</br>
 
  <h4>Nowadays, Interested Stacks</h4>
     Nix</br>
