@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+minjunj's+GitHub!👋)](https://git.io/typing-svg)
 
   **If you interest in My Projects, Contact me!** <br />
-  I interest in **Automation Cloud Systems** and **DevOps**. 
+  I interest in **Automation Cloud Systems** and **DevOps**. <br />
   Nowadays, I am interested in **Automation**, **Establishing an AI guardrail for organizational policy and security** and **Platform engineering**. <br />
   I Develop to find fun in the world. <br />
   
@@ -27,21 +27,20 @@ Here are some ideas to get you started:
   - 🎒 Electrical Engineering and Computer Sciences at GIST (2022~)
   -  🎯 Backend/Infrastructure Developer at [InfoTeam](https://introduce.gistory.me/) (2022~)
   - 🌐 Research Intern at [GIST NetAI](https://netai.smartx.kr/) (2023~2024)
-  - working at Devsisters Corp. (2025~)
+  - DevOps engineer working at Devsisters Corp. (2025~)
  
 
 
 <div>
   <h3> 🛠 Stacks 🛠 </h3>
-    Golang, Python, Nix, C++
-    CRDB, psql
-    K8s, EKS, istio, ArgoCD, Argo Workflows
-    AWS
+    Golang, Python, Nix, C++</br>
+    CRDB, psql</br>
+    K8s, EKS, istio, ArgoCD, Argo Workflows</br>
+    AWS</br>
 
  <h4>Nowadays, Interested Stacks</h4>
     Nix</br>
     Rust</br>
-    
     
  <h4>Human Language</h4>
     한국어</br>
